@@ -3,11 +3,11 @@ let books = [
         ISBN: "12345One", 
         title: "Getting started with MERN",
         pubDate: "2021-07-7",
-numOfPage: 225,
+        numOfPage: 225,
         language: "en",
         author: [1, 2],
         publication: 1,
-        category: ["tech", "programming", "education", "Thriller"]
+        category: ["Education", "UI", "webdev", "Thriller"]
     },
 
     {
